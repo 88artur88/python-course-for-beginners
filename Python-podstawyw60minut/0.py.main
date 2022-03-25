@@ -1,0 +1,20 @@
+my_name = "art"
+first_name = input("Whats your name? ")
+print('Hello ', first_name)
+
+
+if first_name == my_name:
+    print("Welcome back ", first_name)
+else:
+    print("Nice to meet you ", first_name)
+
+
+age = int(input('How old are you? '))
+if age >= 18:
+    print('You are adult!')
+else:
+    print('You are too young! Come back in ',18-age,' years')
+
+
+
+## operatory: (matematyczne i logiczne)

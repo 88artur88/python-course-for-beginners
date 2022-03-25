@@ -20,3 +20,11 @@ checkout Python's documentation pages <a href="https://docs.python.org/3/" targe
 
 ## About us
 We create easy to follow coding tutorials on our <a href="https://www.youtube.com/channel/UCitbHjDxcR3JBErnRLCuYkw" target="_blank">YouTube</a> channel and on our main <a href="https://didcoding.com" target="_blank">website</a>. You should come and have a look :)
+
+
+
+
+Another course, in polish:
+
+
+![Python - podstawy w 60 minut] (https://www.youtube.com/watch?v=_Eo33C1VfbI "Python - podstawy w 60 minut")

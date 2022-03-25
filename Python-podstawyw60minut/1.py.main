@@ -1,0 +1,28 @@
+point_x = 1
+point_y = 2
+
+#touple (krotka) - immutable (cannot be changed)
+point = 1, 2  #(1, 2)
+print(point[0])
+print(point[1])
+print(point)
+
+
+# lists []
+cities = ["Gdynia", "Gdansk", "Sopot"]
+print(cities[0])
+print(cities[-1])
+cities.append('Warszawa')
+cities.append('Katowice')
+print(cities)
+cities.sort()
+cities[-1] = 'Zakopane'
+print(cities)
+
+
+# dictonaries (słownik)
+capitals = {
+    'Poland': "Warsaw",
+    'France': 'Paris',
+    'Germany': 'Berlin'
+}
