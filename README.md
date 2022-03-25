@@ -27,4 +27,4 @@ We create easy to follow coding tutorials on our <a href="https://www.youtube.co
 Another course, in polish:
 
 
-![Python - podstawy w 60 minut] (https://www.youtube.com/watch?v=_Eo33C1VfbI "Python - podstawy w 60 minut")
+![Python - podstawy w 60 minut](https://www.youtube.com/watch?v=_Eo33C1VfbI "Python - podstawy w 60 minut")
